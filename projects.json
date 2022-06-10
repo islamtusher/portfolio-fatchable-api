@@ -1,7 +1,7 @@
 [
     {
       "_id": "62a2d45d5c3737ed80e0f9e4",
-      "image": "./images/p1.jpg",
+      "image": "https://i.ibb.co/PW8FmrC/p3.jpg",
       "title": "Auto Manufecture",
       "description": "Car Manufacture Site, The Auto-Manufec company manufacture many kinds of Car parts. clients are purchase minimum and maximum number of products. Implemented a dashboard where all orders are managed by admin. and users and reviews are also manageable on dashboard",
       "features": [
@@ -22,7 +22,7 @@
     },
     {
       "_id": "62a2d45d231fa2fd04f7ecdc",
-      "image": "./images/p2.jpg",
+      "image": "https://i.ibb.co/frj69dM/p2.jpg",
       "title": "Car WareHousing",
       "description": "This is a ware housing type web site, Applied authentication and authorization with firebase, and Applied JWT to Determined users Implemented delivery and restock options Implemented added new items and Adapted on Database, Determined current user items",
       "features": [
@@ -42,7 +42,7 @@
     },
     {
       "_id": "62a2d45df377a783aad6dd8c",
-      "image": "./images/p3.jpg",
+      "image": "https://i.ibb.co/vHp60kx/p1.jpg",
       "title": "Travel BD Guide",
       "description": "Its a Independent Person services site. User will be able to Book their selcted travel package with exprienced travel",
       "features": [
