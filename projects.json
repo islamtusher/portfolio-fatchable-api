@@ -18,7 +18,7 @@
         "Parent Portal: Allow parents to view their child's academic performance, attendance, exam results, and assignments.",          
         "Security and Access Control: Implement access control based on roles (teachers, students, administrators)."
       ],
-      "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],
+      "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", "Moment JS"],
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
       "clientCode": "https://github.com/islamtusher/moto-warehouse",
       "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
