@@ -1,60 +1,86 @@
 [
+    {
+      "_id": "62a2d45d5c3737ed80e0f9e5",
+      "images":[ "https://i.ibb.co/ck55Vhq/no-image.jpg"],
+      "title": "School Management System",
+      "description": "Led the front-end development efforts for a School Management System designed to revolutionize administrative processes. The project leveraged React.js to deliver a dynamic and user-friendly platform and the system followed best practices for user experience and functionality.",
+      "features": [
+        "Student information management: Manage student enrollment and academic history. display key academic information, such as grades, attendance, and upcoming assignments on the Dashboard",
+        "Staff information management: Manage teacher and staff information, such as personal details, employment history, and payroll details. Assign roles and responsibilities to teachers and staff members.",
+        "Timetable Management: Create and manage class schedules with details on time, subjects, teachers, and classrooms. Allocate subjects to specific teachers, time, and classrooms.",
+        "Attendance tracking: Implement a manual system to Track Student and Staff attendance and absences in real time and generate attendance reports.", 
+        "Examination and Results: Plan and manage examination schedules. Publish exam results securely and allow students and parents to access them.",
+        "Grading and Report Cards: Record and calculate student grades for each subject and Generation of report cards and transcripts.",
+        "Assessment Management: Assign and track student assignments, and assessments and allow students and parents to access them.",
+        "Fee Management: Streamline the process of fee collection and generate invoices for fee payments. Tracking of payment history and overdue fees.",
+        "Accounting and finance: Manage school finances, including billing, and invoicing, and Automate financial reporting and analytics to provide real-time insights into revenue, expenses, and cash flow.",
+        "Inventory Management: Monitor and manage school supplies, equipment",
+        "Parent Portal: Allow parents to view their child's academic performance, attendance, exam results, and assignments."          
+        "Security and Access Control: Implement access control based on roles (teachers, students, administrators)."
+      ],
+      "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],
+      "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
+      "clientCode": "https://github.com/islamtusher/moto-warehouse",
+      "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
+      "liveLink": "https://moto-warehouse.web.app",
+    },
     
     {
       "_id": "62a2d45d5c3737ed80e0f9e4",
       "images":[ "https://i.ibb.co/L18GxWm/project-1.png", "https://i.ibb.co/QKcWqDB/Screenshot-from-2022-06-10-23-24-04.jpg",
         "https://i.ibb.co/j40Rvfy/Screenshot-from-2022-06-10-23-22-56.jpg"],
       "title": "Auto Manufecture",
-      "description": "Car Manufacture Site, The Auto-Manufec company manufacture many kinds of Car parts. clients are purchase minimum and maximum number of products. Implemented a dashboard where all orders are managed by admin. and users and reviews are also manageable on dashboard",
+      "description": "Car Manufacture Site, The Auto-Manufec company manufactures many kinds of Car parts. clients purchase minimum and maximum number of products. Implemented a dashboard where all orders are managed by admin. and users and reviews are also manageable on dashboard",
       "features": [
-        "Authentication and authorization with firebase",
+        "Authentication and authorization with Firebase",
         "JWT access toke",
         "Products purchases system with stripe payment",
         "Performed a dashboard for managing all orders", 
-        "Originate admin, and Improving profile",
-        "dashboard Performed separately depained on user role",
+        "Originate admin, and Improve profile",
+        "dashboard Performed separately detained on user role",
         "determinant the admin and managing dashboard",
         "Admin can add and delete new Products",
         "users performed add reviews"],
       "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],      
-      "liveLink": "",
-      "clientCode":"",
-      "serverCode":""
+      "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
+      "clientCode": "https://github.com/islamtusher/moto-warehouse",
+      "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
+      "liveLink": "https://moto-warehouse.web.app",
     },
     {
       "_id": "62a2d45d231fa2fd04f7ecdc",
       "images":[ "https://i.ibb.co/VpzRF4s/project-2.png", "https://i.ibb.co/PwTNGhT/Screenshot-from-2022-06-10-23-14-12.jpg",
         "https://i.ibb.co/9YwVcbQ/Screenshot-from-2022-06-10-23-13-31.jpg"],
       "title": "Car WareHousing",
-      "description": "This is a ware housing type web site, Applied authentication and authorization with firebase, and Applied JWT to Determined users Implemented delivery and restock options Implemented added new items and Adapted on Database, Determined current user items",
+      "description": "This is a warehousing type website, Applied authentication and authorization with Firebase, and Applied JWT to Determined users Implemented delivery and restock options Implemented added new items and Adapted on Database, Determined current user items",
       "features": [
-        "Authentication and authorization with firebase",
+        "Authentication and authorization with Firebase",
         "JWT access toke",
         "Products purchases system with stripe payment",
         "Performed a dashboard for managing all orders",
         "Performed delivering and restoking by users",
         "Implemented deleting items on manage inventory",
-        "Implemented Add items by usersco"
+        "Implemented Add items by users",
         ],
       "tools": ["JavaScript", "React js", "Express js", "MongoDB", "Bootstrap", "jWT Auth", "Firebase Auth"],
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
-      "clientCode":"https://github.com/islamtusher/moto-warehouse",
-      "serverCode":"https://github.com/islamtusher/moto-warehouse-server",
-      "liveLink": "https://moto-warehouse.web.app"
+      "clientCode": "https://github.com/islamtusher/moto-warehouse",
+      "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
+      "liveLink": "https://moto-warehouse.web.app",
     },
     {
       "_id": "62a2d45df377a783aad6dd8c",
        "images":[ "https://i.ibb.co/zf25R75/project-3.png", "https://i.ibb.co/nRkbh6z/Screenshot-from-2022-06-10-23-27-56.jpg",
         "https://i.ibb.co/PY4DQqZ/Screenshot-from-2022-06-10-23-27-41.jpg"],
       "title": "Travel BD Guide",
-      "description": "Its a Independent Person services site. User will be able to Book their selcted travel package with exprienced travel",
+      "description": "It's an Independent Person services site. User will be able to Book their selected travel package with experienced travel",
       "features": [
-        "Authentication and authorization with firebase",
+        "Authentication and authorization with Firebase",
         "Implemented Services Booking system",
         "Performed Users reviews"],
       "tools": ["JavaScript", "React js", "React Bootstrap", "Firebase Auth"],
       "clientCode": "https://github.com/islamtusher/tour-bd-guide",
-      "liveLink": "https://travel-bd-guide.web.app/"
+      "liveLink": "https://travel-bd-guide.web.app/",
     }
     
   ]
