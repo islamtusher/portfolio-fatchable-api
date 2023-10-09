@@ -46,27 +46,6 @@
       "serverCode":""
     },
     {
-      "_id": "62a2d45d5c3737ed80e0f9e4",
-      "images":[ "https://i.ibb.co/L18GxWm/project-1.png", "https://i.ibb.co/QKcWqDB/Screenshot-from-2022-06-10-23-24-04.jpg",
-        "https://i.ibb.co/j40Rvfy/Screenshot-from-2022-06-10-23-22-56.jpg"],
-      "title": "Auto Manufecture",
-      "description": "Car Manufacture Site, The Auto-Manufec company manufacture many kinds of Car parts. clients are purchase minimum and maximum number of products. Implemented a dashboard where all orders are managed by admin. and users and reviews are also manageable on dashboard",
-      "features": [
-        "Authentication and authorization with firebase",
-        "JWT access toke",
-        "Products purchases system with stripe payment",
-        "Performed a dashboard for managing all orders", 
-        "Originate admin, and Improving profile",
-        "dashboard Performed separately depained on user role",
-        "determinant the admin and managing dashboard",
-        "Admin can add and delete new Products",
-        "users performed add reviews"],
-      "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],      
-      "liveLink": "",
-      "clientCode":"",
-      "serverCode":""
-    },
-    {
       "_id": "62a2d45d231fa2fd04f7ecdc",
       "images":[ "https://i.ibb.co/VpzRF4s/project-2.png", "https://i.ibb.co/PwTNGhT/Screenshot-from-2022-06-10-23-14-12.jpg",
         "https://i.ibb.co/9YwVcbQ/Screenshot-from-2022-06-10-23-13-31.jpg"],
