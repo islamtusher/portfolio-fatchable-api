@@ -15,8 +15,8 @@
         "Fee Management: Streamline the process of fee collection and generate invoices for fee payments. Tracking of payment history and overdue fees.",
         "Accounting and finance: Manage school finances, including billing, and invoicing, and Automate financial reporting and analytics to provide real-time insights into revenue, expenses, and cash flow.",
         "Inventory Management: Monitor and manage school supplies, equipment",
-        "Parent Portal: Allow parents to view their child's academic performance, attendance, exam results, and assignments."          
-        "Security and Access Control: Implement access control based on roles (teachers, students, administrators)."
+        "Parent Portal: Allow parents to view their child's academic performance, attendance, exam results, and assignments.",          
+        "Security and Access Control: Implement access control based on roles (teachers, students, administrators).",
       ],
       "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
