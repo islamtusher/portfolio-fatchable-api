@@ -40,7 +40,8 @@
         "dashboard Performed separately detained on user role",
         "determinant the admin and managing dashboard",
         "Admin can add and delete new Products",
-        "users performed add reviews"],
+        "users performed add reviews"
+      ],
       "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],      
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
       "clientCode": "https://github.com/islamtusher/moto-warehouse",
@@ -60,7 +61,7 @@
         "Performed a dashboard for managing all orders",
         "Performed delivering and restoking by users",
         "Implemented deleting items on manage inventory",
-        "Implemented Add items by users",
+        "Implemented Add items by users"
         ],
       "tools": ["JavaScript", "React js", "Express js", "MongoDB", "Bootstrap", "jWT Auth", "Firebase Auth"],
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
@@ -77,7 +78,8 @@
       "features": [
         "Authentication and authorization with Firebase",
         "Implemented Services Booking system",
-        "Performed Users reviews"],
+        "Performed User reviews"
+      ],
       "tools": ["JavaScript", "React js", "React Bootstrap", "Firebase Auth"],
       "clientCode": "https://github.com/islamtusher/tour-bd-guide",
       "liveLink": "https://travel-bd-guide.web.app/"
