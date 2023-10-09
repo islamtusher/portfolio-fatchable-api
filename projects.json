@@ -1,29 +1,5 @@
 [
-    {
-      "_id": "62a2d45d5c3737ed80e0f9e5",
-      "images":[ "https://i.ibb.co/ck55Vhq/no-image.jpg"],
-      "title": "School Management System",
-      "description": "Led the front-end development efforts for a School Management System designed to revolutionize administrative processes. The project leveraged React.js to deliver a dynamic and user-friendly platform and the system followed best practices for user experience and functionality.",
-      "features": [
-        "Student information management: Manage student enrollment and academic history. display key academic information, such as grades, attendance, and upcoming assignments on the Dashboard",
-        "Staff information management: Manage teacher and staff information, such as personal details, employment history, and payroll details. Assign roles and responsibilities to teachers and staff members.",
-        "Timetable Management: Create and manage class schedules with details on time, subjects, teachers, and classrooms. Allocate subjects to specific teachers, time, and classrooms.",
-        "Attendance tracking: Implement a manual system to Track Student and Staff attendance and absences in real time and generate attendance reports.", 
-        "Examination and Results: Plan and manage examination schedules. Publish exam results securely and allow students and parents to access them.",
-        "Grading and Report Cards: Record and calculate student grades for each subject and Generation of report cards and transcripts.",
-        "Assessment Management: Assign and track student assignments, and assessments and allow students and parents to access them.",
-        "Fee Management: Streamline the process of fee collection and generate invoices for fee payments. Tracking of payment history and overdue fees.",
-        "Accounting and finance: Manage school finances, including billing, and invoicing, and Automate financial reporting and analytics to provide real-time insights into revenue, expenses, and cash flow.",
-        "Inventory Management: Monitor and manage school supplies, equipment",
-        "Parent Portal: Allow parents to view their child's academic performance, attendance, exam results, and assignments."          
-        "Security and Access Control: Implement access control based on roles (teachers, students, administrators)."
-      ],
-      "tools": ["HTML", "CSS", "JavaScript", "React js", "Tailwind CSS", "DaisyUI", "React Hook Form", " Moment JS"],
-      "libraries": [],
-      "liveLink": "",
-      "clientCode": "",
-      "serverCode": ""
-    },
+    
     {
       "_id": "62a2d45d5c3737ed80e0f9e4",
       "images":[ "https://i.ibb.co/L18GxWm/project-1.png", "https://i.ibb.co/QKcWqDB/Screenshot-from-2022-06-10-23-24-04.jpg",
