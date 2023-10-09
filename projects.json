@@ -97,7 +97,7 @@
         "Authentication and authorization with firebase",
         "Implemented Services Booking system",
         "Performed Users reviews"],
-      "tols": ["JavaScript", "React js", "React Bootstrap", "Firebase Auth"],
+      "tools": ["JavaScript", "React js", "React Bootstrap", "Firebase Auth"],
       "clientCode": "https://github.com/islamtusher/tour-bd-guide",
       "liveLink": "https://travel-bd-guide.web.app/"
     }
