@@ -22,7 +22,7 @@
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
       "clientCode": "https://github.com/islamtusher/moto-warehouse",
       "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
-      "liveLink": "https://moto-warehouse.web.app",
+      "liveLink": "https://moto-warehouse.web.app"
     },
     
     {
@@ -45,7 +45,7 @@
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
       "clientCode": "https://github.com/islamtusher/moto-warehouse",
       "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
-      "liveLink": "https://moto-warehouse.web.app",
+      "liveLink": "https://moto-warehouse.web.app"
     },
     {
       "_id": "62a2d45d231fa2fd04f7ecdc",
@@ -66,7 +66,7 @@
       "libraries": ["React Firebase Hooks", "React Hooks Form", "React Router", "React Router Dom", "React Custom Link"],
       "clientCode": "https://github.com/islamtusher/moto-warehouse",
       "serverCode": "https://github.com/islamtusher/moto-warehouse-server",
-      "liveLink": "https://moto-warehouse.web.app",
+      "liveLink": "https://moto-warehouse.web.app"
     },
     {
       "_id": "62a2d45df377a783aad6dd8c",
@@ -80,7 +80,7 @@
         "Performed Users reviews"],
       "tools": ["JavaScript", "React js", "React Bootstrap", "Firebase Auth"],
       "clientCode": "https://github.com/islamtusher/tour-bd-guide",
-      "liveLink": "https://travel-bd-guide.web.app/",
+      "liveLink": "https://travel-bd-guide.web.app/"
     }
     
   ]
